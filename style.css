@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Concert+One&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
 
 * {
     margin: 0;
@@ -29,7 +29,7 @@ body {
 body {
     max-width: 1300px;
     margin: 0 auto;
-font-family: 'Concert One', cursive;
+ font-family: 'Balsamiq Sans', cursive;
     background-color: #f7f7f7;
 }
 
